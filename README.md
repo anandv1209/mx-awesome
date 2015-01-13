@@ -1,2 +1,2 @@
-# mx-awesome
+# Icon-awesome
 Icon fonts
